@@ -5,7 +5,7 @@
 # CrossCheck azure CI with CD
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
